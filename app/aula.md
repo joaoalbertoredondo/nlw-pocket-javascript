@@ -49,7 +49,6 @@ Apresentar os dados
 - [x] Criação e manipulação de objetos
 - [x] Acesso a propriedades de objetos
 
-
 ### Functions
 
 - [x] Criar, passar argumento
@@ -63,3 +62,12 @@ Apresentar os dados
 # Condicionais
 
 -[x] switch
+
+## Módulos em Node.js:
+
+- [x] Importação de modulos (require, CommonJS)
+- [x] Biblioteca "inquirer" para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
