@@ -5,7 +5,4 @@
 - [x] Marcar/Desmarcar metas como concluídas
 - [x] Remover metas
 - [x] Sistema de mensagens
-
-
-desafio:
-- Mostrar mensagem quando não existir meta!
+- [x] Persistir Dados
